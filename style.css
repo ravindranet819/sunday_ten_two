@@ -1,0 +1,48 @@
+h1{
+    background-color:rgb(3, 50, 49);
+    color: white;
+}
+h2{
+    background-color: rgb(74, 199, 43);
+    color: rgb(255, 255, 255);
+}
+h3{
+    background-color: rgb(225, 174, 72);
+    color: rgb(255, 255, 255);
+}
+h4{
+    background-color: aqua;
+    color: red;
+}
+h5{
+    background-color: aqua;
+    color: red;
+}
+h6{
+    background-color: aqua;
+    color: red;
+}
+p{
+    font-size: 30px;
+    background-color: black;
+    color: red;
+
+}
+div{
+    background-color: fuchsia;
+    color: aliceblue;
+    font-size: 20px;
+ 
+}
+body{
+    background-color: darkslategray;
+    font-size: 20px;
+}
+span{
+    background-color: crimson;
+    color: aliceblue;
+    font-size: 20px;
+}
+section{
+    color: wheat;
+}
